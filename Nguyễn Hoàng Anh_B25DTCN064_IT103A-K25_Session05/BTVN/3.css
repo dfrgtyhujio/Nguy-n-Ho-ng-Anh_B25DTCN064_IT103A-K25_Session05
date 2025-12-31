@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#f4f4f9;
+}
+
+.header {
+    text-align: center;
+    
+}
+
+.header h1 {
+    color: #1e90ff;
+    font-size: 30px;
+}
+
+#implant {
+    text-decoration: underline line-through;
+}
+
+#braces {
+    font-weight: bold;
+}
+
+#treatment {
+    letter-spacing: 2px;
+}

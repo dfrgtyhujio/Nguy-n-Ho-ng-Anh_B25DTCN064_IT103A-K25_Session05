@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.header {
+    background-color: #ebeef0;
+    color: #1e90ff;
+}
+
+.branches p {
+    font-size: 12px;
+}
+
+#branch1 {
+    color: red;
+}
+
+#branch2 {
+    font-style: italic;
+}
+
+#branch3 {
+    text-decoration: underline;
+}
+
+#branch4 {
+    font-weight: bold;
+}

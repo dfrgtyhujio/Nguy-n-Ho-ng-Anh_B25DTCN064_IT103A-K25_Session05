@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #f0f9ff;
+}
+
+h1{
+    font-size: 32px;
+    letter-spacing: 2px;
+}
+
+.header {
+    background-color: #0284c7;
+    color: white;
+    text-align: center;
+}
+
+.header p {
+    font-style: italic;
+}
+
+h2 {
+    color: #0369a1;
+}
+
+.service {
+    color: #0ea5e9
+}
+
+#erorr {
+    color: rgb(204, 2, 2);
+    font-style: italic;
+}
+
+li::marker {
+    content: "🦷 "
+}
+
+li:hover{
+    color: #0a80bf;
+}
+
+a {
+    font-weight: bolder;
+}
+
+a:hover {
+    color: #03527c;
+}
+
+.footer {
+    background-color: #0284c7;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+}

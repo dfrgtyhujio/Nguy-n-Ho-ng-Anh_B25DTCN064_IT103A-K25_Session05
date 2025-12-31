@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #1e90ff;
+}
+
+.doctor{
+    background-color: #e6f7ff;
+}
+.doctor h2{
+    color: #1e90ff;
+}
+
+.services p {
+    font-size: 20px;
+}

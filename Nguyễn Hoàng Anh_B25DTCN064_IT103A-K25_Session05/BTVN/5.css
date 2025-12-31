@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #1e90ff;
+    font-size: 25px;
+}
+
+input {
+    border: 1px solid #1e90ff;
+}
+
+textarea {
+    border: 1px solid #1e90ff;
+}
+
+button {
+    background-color: #00bfff;
+    color: white;
+    border: 1px solid black;
+}
